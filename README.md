@@ -4,6 +4,7 @@ This token is based on ERC20 token standard so that you can create your own coin
 ## Steps to compile in truffle
 ```
 git clone https://github.com/jangidkrishna/ERC20_Token.git
+cd ERC20_Token-master
 truffle compile 
 tuffle migrate
 truffle console
